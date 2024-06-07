@@ -13,7 +13,7 @@ WEBHOOK_URL = ""
 tier = [1000, 6434, 79999, 1299999]
 with open("./cube_database.csv", "r", encoding='UTF-8') as f:
     data_name, data = zip(*[(row[0], row[1]) for row in csv.reader(f) if row[1].isdecimal()])
-last = factory.factory_list(auth.fj_login()['Token'], factory.make_search_body())[0]
+last = int(factory.factory_list(auth.fj_login()['Token'], factory.make_search_body())[0]["itemId"])
 
 def get_bots():
     global last
