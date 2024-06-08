@@ -1,608 +1,608 @@
 name,id,health,mass
 ### MEDIUM CUBES ###,,,
-T1 Cube Medium,227205318,,
-T1 Edge Medium,227917916,,
-T1 Corner Medium,1931676396,,
-T1 Inner Medium,3559488176,,
-T1 Edge Round Medium,447126572,,
-T1 Corner Round Medium,2589418111,,
-T1 Inner Round Medium,1837286858,,
-T1 Edge Slope Medium,1538778047,,
-T1 Corner Slope Medium,557016830,,
-T1 Inner Slope Medium,495400745,,
-T1 Cone Medium,1352234106,,
-T1 Pyramid Medium,2686602224,,
-T1 Cube Medium with C6 Logo,3367514907,,
-T1 Cube Medium with CARBON Letters,2392661891,,
-T1 Cube Cardboard,2077855120,,
-T1 Edge Cardboard,348383505,,
+T1 Cube Medium,227205318,2100,10
+T1 Edge Medium,227917916,2100,10
+T1 Corner Medium,1931676396,2100,10
+T1 Inner Medium,3559488176,2100,10
+T1 Edge Round Medium,447126572,2100,10
+T1 Corner Round Medium,2589418111,2100,10
+T1 Inner Round Medium,1837286858,2100,10
+T1 Edge Slope Medium,1538778047,2100,10
+T1 Corner Slope Medium,557016830,2100,10
+T1 Inner Slope Medium,495400745,2100,10
+T1 Cone Medium,1352234106,2100,10
+T1 Pyramid Medium,2686602224,2100,10
+T1 Cube Medium with C6 Logo,3367514907,2100,10
+T1 Cube Medium with CARBON Letters,2392661891,2100,10
+T1 Cube Cardboard,2077855120,2100,10
+T1 Edge Cardboard,348383505,2100,10
 ### HEAVY CUBES ###,,,
-T2 Cube Heavy,123901970,,
-T2 Edge Heavy,1225928721,,
-T2 Corner Heavy,222074329,,
-T2 Inner Heavy,2577871627,,
-T2 Edge Round Heavy,368051733,,
-T2 Corner Round Heavy,2148353926,,
-T2 Inner Round Heavy,665761850,,
-T2 Edge Slope Heavy,1334508924,,
-T2 Corner Slope Heavy,3665280239,,
-T2 Inner Slope Heavy,2111062867,,
-T2 Cone Heavy,3886136035,,
-T2 Pyramid Heavy,4184274974,,
+T2 Cube Heavy,123901970,2800,70
+T2 Edge Heavy,1225928721,2800,70
+T2 Corner Heavy,222074329,2800,70
+T2 Inner Heavy,2577871627,2800,70
+T2 Edge Round Heavy,368051733,2800,70
+T2 Corner Round Heavy,2148353926,2800,70
+T2 Inner Round Heavy,665761850,2800,70
+T2 Edge Slope Heavy,1334508924,2800,70
+T2 Corner Slope Heavy,3665280239,2800,70
+T2 Inner Slope Heavy,2111062867,2800,70
+T2 Cone Heavy,3886136035,2800,70
+T2 Pyramid Heavy,4184274974,2800,70
 ### LIGHT CUBES ###,,,
-T2 Cube Light,1972224393,,
-T2 Edge Light,4157111053,,
-T2 Corner Light,1347255791,,
-T2 Inner Light,1941682825,,
-T2 Edge Round Light,1993583577,,
-T2 Corner Round Light,582052348,,
-T2 Inner Round Light,1578378954,,
-T2 Edge Slope Light,3093572869,,
-T2 Corner Slope Light,3959877408,,
-T2 Inner Slope Light,2426642454,,
-T2 Cone Light,1422041599,,
-T2 Pyramid Light,885415789,,
+T2 Cube Light,1972224393,1500,0.8
+T2 Edge Light,4157111053,1500,0.8
+T2 Corner Light,1347255791,1500,0.8
+T2 Inner Light,1941682825,1500,0.8
+T2 Edge Round Light,1993583577,1500,0.8
+T2 Corner Round Light,582052348,1500,0.8
+T2 Inner Round Light,1578378954,1500,0.8
+T2 Edge Slope Light,3093572869,1500,0.8
+T2 Corner Slope Light,3959877408,1500,0.8
+T2 Inner Slope Light,2426642454,1500,0.8
+T2 Cone Light,1422041599,1500,0.8
+T2 Pyramid Light,885415789,1500,0.8
 ### COMPACT CUBES ###,,,
-T5 Compact Cube,1576857358,,
-T5 Compact Edge,327960333,,
-T5 Compact Corner,126353766,,
-T5 Compact Inner,2378018821,,
-T5 Compact Edge Round,676446887,,
-T5 Compact Corner Round,1728084091,,
-T5 Compact Inner Round,925214026,,
-T5 Compact Edge Slope,1915435470,,
-T5 Compact Corner Slope,1881278783,,
-T5 Compact Inner Slope,1834966563,,
-T5 Compact Cone,1979640496,,
-T5 Compact Pyramid,979123471,,
+T5 Compact Cube,1576857358,4500,2.5
+T5 Compact Edge,327960333,4500,2.5
+T5 Compact Corner,126353766,4500,2.5
+T5 Compact Inner,2378018821,4500,2.5
+T5 Compact Edge Round,676446887,4500,2.5
+T5 Compact Corner Round,1728084091,4500,2.5
+T5 Compact Inner Round,925214026,4500,2.5
+T5 Compact Edge Slope,1915435470,4500,2.5
+T5 Compact Corner Slope,1881278783,4500,2.5
+T5 Compact Inner Slope,1834966563,4500,2.5
+T5 Compact Cone,1979640496,4500,2.5
+T5 Compact Pyramid,979123471,4500,2.5
 ### GLASS CUBES ###,,,
-T1 Glass Cube,3327812742,,
-T1 Glass Edge,4235300269,,
-T1 Glass Corner,1094997616,,
-T1 Glass Inner,445857183,,
-T1 Glass Edge Round,3629216992,,
-T1 Glass Corner Round,2380494106,,
-T1 Glass Inner Round,3066776961,,
+T1 Glass Cube,3327812742,2100,10
+T1 Glass Edge,4235300269,2100,10
+T1 Glass Corner,1094997616,2100,10
+T1 Glass Inner,445857183,2100,10
+T1 Glass Edge Round,3629216992,2100,10
+T1 Glass Corner Round,2380494106,2100,10
+T1 Glass Inner Round,3066776961,2100,10
 ### NEON CUBES ###,,,
-T1 Neon Cube,150161008,,
-T1 Neon Edge,1183051379,,
-T1 Neon Corner,2333317284,,
-T1 Neon Inner,1616217456,,
-T1 Neon Edge Round,2623263862,,
-T1 Neon Corner Round,3195590950,,
-T1 Neon Inner Round,1774712137,,
-T1 Neon Edge Slope,3324063519,,
-T1 Neon Corner Slope,3825345103,,
-T1 Neon Inner Slope,868027936,,
-T1 Neon Cone,552682446,,
-T1 Neon Pyramid,3447434946,,
+T1 Neon Cube,150161008,2100,10
+T1 Neon Edge,1183051379,2100,10
+T1 Neon Corner,2333317284,2100,10
+T1 Neon Inner,1616217456,2100,10
+T1 Neon Edge Round,2623263862,2100,10
+T1 Neon Corner Round,3195590950,2100,10
+T1 Neon Inner Round,1774712137,2100,10
+T1 Neon Edge Slope,3324063519,2100,10
+T1 Neon Corner Slope,3825345103,2100,10
+T1 Neon Inner Slope,868027936,2100,10
+T1 Neon Cone,552682446,2100,10
+T1 Neon Pyramid,3447434946,2100,10
 ### RETRO CUBES ###,,,
-T1 Retro Cube,183067052,,
-T1 Retro Edge,1150929327,,
-T1 Retro Corner,1387792676,,
-T1 Retro Inner,3985049715,,
+T1 Retro Cube,183067052,2100,10
+T1 Retro Edge,1150929327,2100,10
+T1 Retro Corner,1387792676,2100,10
+T1 Retro Inner,3985049715,2100,10
 ### HELIUM CUBES ###,,,
-Helium,3226650954,,
+Helium,3226650954,5000,1
 ### OLD CUBES ###,,,
-Armored Cube T1,3795589065,,
-Armored Cube T2,3523011797,,
-Armored Cube T3,1428281037,,
-Armored Cube T4,148547544,,
-Armored Cube T5,3902577141,,
-Armored Cube T6,3217516252,,
-Armored Cube T7,1602312433,,
-Armored Cube T8,3130466754,,
-Armored Cube T9,936473914,,
-Armored Inner T1,1661086464,,
-Armored Inner T2,140476067,,
-Armored Inner T3,3558861316,,
-Armored Inner T4,3514383790,,
-Armored Inner T5,1772266812,,
-Armored Inner T6,1717894314,,
-Armored Inner T7,3737084984,,
-Armored Inner T8,1664400308,,
-Armored Inner T9,2704279673,,
-Armored Prism T1,3133051372,,
-Armored Prism T2,3521365071,,
-Armored Prism T3,228806888,,
-Armored Prism T4,147162946,,
-Armored Prism T5,2954764240,,
-Armored Prism T6,3218622022,,
-Armored Prism T7,117694164,,
-Armored Prism T8,3129475416,,
-Armored Prism T9,3159626035,,
-Armored Tetra T1,3288882012,,
-Armored Tetra T2,2941587199,,
-Armored Tetra T3,1930795608,,
-Armored Tetra T4,1987268082,,
-Armored Tetra T5,3467171168,,
-Armored Tetra T6,3245247734,,
-Armored Tetra T7,2041910372,,
-Armored Tetra T8,3292449768,,
-Armored Tetra T9,3265763652,,
-Heavy Chassis Cube,1654632428,,
-Heavy Chassis Inner,4181414569,,
-Heavy Chassis Prism,2686466102,,
-Heavy Chassis Tetra,2157492751,,
-Light Chassis Cube,2295832800,,
-Light Chassis Inner,3920646105,,
-Light Chassis Prism,2231909735,,
-Light Chassis Tetra,1754827363,,
-Armored Helium T4.,3305279060,,
-Armored Helium T6,1914654544,,
-Armored Helium T8,2001668174,,
+Armored Cube T1,3795589065,0,0
+Armored Cube T2,3523011797,0,0
+Armored Cube T3,1428281037,0,0
+Armored Cube T4,148547544,0,0
+Armored Cube T5,3902577141,0,0
+Armored Cube T6,3217516252,0,0
+Armored Cube T7,1602312433,0,0
+Armored Cube T8,3130466754,0,0
+Armored Cube T9,936473914,0,0
+Armored Inner T1,1661086464,0,0
+Armored Inner T2,140476067,0,0
+Armored Inner T3,3558861316,0,0
+Armored Inner T4,3514383790,0,0
+Armored Inner T5,1772266812,0,0
+Armored Inner T6,1717894314,0,0
+Armored Inner T7,3737084984,0,0
+Armored Inner T8,1664400308,0,0
+Armored Inner T9,2704279673,0,0
+Armored Prism T1,3133051372,0,0
+Armored Prism T2,3521365071,0,0
+Armored Prism T3,228806888,0,0
+Armored Prism T4,147162946,0,0
+Armored Prism T5,2954764240,0,0
+Armored Prism T6,3218622022,0,0
+Armored Prism T7,117694164,0,0
+Armored Prism T8,3129475416,0,0
+Armored Prism T9,3159626035,0,0
+Armored Tetra T1,3288882012,0,0
+Armored Tetra T2,2941587199,0,0
+Armored Tetra T3,1930795608,0,0
+Armored Tetra T4,1987268082,0,0
+Armored Tetra T5,3467171168,0,0
+Armored Tetra T6,3245247734,0,0
+Armored Tetra T7,2041910372,0,0
+Armored Tetra T8,3292449768,0,0
+Armored Tetra T9,3265763652,0,0
+Heavy Chassis Cube,1654632428,0,0
+Heavy Chassis Inner,4181414569,0,0
+Heavy Chassis Prism,2686466102,0,0
+Heavy Chassis Tetra,2157492751,0,0
+Light Chassis Cube,2295832800,0,0
+Light Chassis Inner,3920646105,0,0
+Light Chassis Prism,2231909735,0,0
+Light Chassis Tetra,1754827363,0,0
+Armored Helium T4,3305279060,0,0
+Armored Helium T6,1914654544,0,0
+Armored Helium T8,2001668174,0,0
 ### RODS ###,,,
-T2 Rod,1818686721,,
-T2 Rod Short,1312806203,,
-T2 Rod Long,3489647384,,
-T2 Rod Arc,2454932271,,
-T2 Rod Arc Short,3568811832,,
-T2 Rod Diagonal 2d,394503911,,
-T2 Rod Diagonal 2d Short,1316425218,,
-T2 Rod Diagonal 3d,3705632066,,
-T2 Rod Plus,1750720388,,
-T2 Rod Frame,651695911,,
-T2 Rod Cross,4265819694,,
-T2 Rod Long Spring,1051732041,,
-T2 Rod_Short Spring,2828600518,,
-T2 Rod Spring,3950939011,,
+T2 Rod,1818686721,5400,3
+T2 Rod Short,1312806203,3600,2
+T2 Rod Long,3489647384,9000,5
+T2 Rod Arc,2454932271,5400,3
+T2 Rod Arc Short,3568811832,3600,2
+T2 Rod Diagonal 2d,394503911,5400,4
+T2 Rod Diagonal 2d Short,1316425218,3600,2
+T2 Rod Diagonal 3d,3705632066,9000,5
+T2 Rod Plus,1750720388,9000,5
+T2 Rod Frame,651695911,14400,8
+T2 Rod Cross,4265819694,9000,5
+T2 Rod Long Spring,1051732041,9000,5
+T2 Rod_Short Spring,2828600518,3600,2
+T2 Rod Spring,3950939011,5400,3
 ### STRUTS ###,,,
-T3 Strut,4262490755,,
-T3 Strut Short,1648206355,,
-T3 Strut Long,3084940372,,
-T3 Strut Arc,743433251,,
-T3 Strut Arc Short,4206005137,,
-T3 Strut Slice,2126360617,,
-T3 Strut Slice Short,2608938070,,
-T3 Strut Ramp,3999885169,,
-T3 Strut Ramp Short,3903776284,,
-T3 Strut Diagonal 2d,14694903,,
-T3 Strut Diagonal 2d Short,3562021587,,
-T3 Strut Plus,511164535,,
-T3 Strut Cross,787409845,,
-T3 Strut Skewed Plus,1521447199,,
-T3 Strut Diagonal 3d Right,2002864041,,
-T3 Strut Diagonal 3d Left,2028802540,,
-T3 Strut Diagonal 3d Right Short,3923036903,,
-T3 Strut Diagonal 3d Left Short,1319987665,,
+T3 Strut,4262490755,27000,90
+T3 Strut Short,1648206355,18000,60
+T3 Strut Long,3084940372,45000,150
+T3 Strut Arc,743433251,27000,90
+T3 Strut Arc Short,4206005137,18000,90
+T3 Strut Slice,2126360617,27000,90
+T3 Strut Slice Short,2608938070,24000,80
+T3 Strut Ramp,3999885169,36000,120
+T3 Strut Ramp Short,3903776284,27000,90
+T3 Strut Diagonal 2d,14694903,36000,120
+T3 Strut Diagonal 2d Short,3562021587,27000,90
+T3 Strut Plus,511164535,21600,90
+T3 Strut Cross,787409845,64800,270
+T3 Strut Skewed Plus,1521447199,64800,270
+T3 Strut Diagonal 3d Right,2002864041,45000,150
+T3 Strut Diagonal 3d Left,2028802540,45000,150
+T3 Strut Diagonal 3d Right Short,3923036903,24000,80
+T3 Strut Diagonal 3d Left Short,1319987665,24000,80
 ### WHEELS ###,,,
-T0 Wheel,1810876016,,
-T0 Steering Wheel,932552373,,
-T1 Wheel,4172855773,,
-T1 Steering Wheel,169839823,,
-T2 Wheel,2924196438,,
-T2 Steering Wheel,2958657062,,
-T3 Wheel,3028949761,,
-T3 Steering Wheel,1177366035,,
-T4 Wheel,1223384335,,
-T4 Steering Wheel,345048522,,
-T4 Wheel Cardboard,2105254905,,
-T4 Steering Wheel Cardboard,32187483,,
-T5 Wheel,3301162279,,
-T5 Steering Wheel,48208435,,
-T5 Wheel Golden,2305706992,,
-T5 Steering Wheel Golden,3546777424,,
+T0 Wheel,1810876016,17500,260
+T0 Steering Wheel,932552373,17500,260
+T1 Wheel,4172855773,37600,520
+T1 Steering Wheel,169839823,37600,520
+T2 Wheel,2924196438,60300,780
+T2 Steering Wheel,2958657062,60300,780
+T3 Wheel,3028949761,85600,1040
+T3 Steering Wheel,1177366035,85600,1040
+T4 Wheel,1223384335,113500,1300
+T4 Steering Wheel,345048522,113500,1300
+T4 Wheel Cardboard,2105254905,113500,1300
+T4 Steering Wheel Cardboard,32187483,113500,1300
+T5 Wheel,3301162279,240000,2600
+T5 Steering Wheel,48208435,240000,2600
+T5 Wheel Golden,2305706992,240000,2600
+T5 Steering Wheel Golden,3546777424,240000,2600
 ### OLD WHEELS ###,,,
-Wheel Steering T1,3769194911,,
-Wheel Steering T2,3158825472,,
-Wheel Steering T3,1526222854,,
-Wheel Steering T4,3539316064,,
-Wheel Steering T5,3435681649,,
-Wheel Steering T6,1701822652,,
-Wheel Steering T7,1868379119,,
-Wheel Steering T8,244400800,,
-Wheel Steering T9,4184683672,,
-Wheel Steering T10,3104518012,,
-Wheel T1,2866040116,,
-Wheel T2,299251682,,
-Wheel T3,182430853,,
-Wheel T4,2137276546,,
-Wheel T5,2632952818,,
-Wheel T6,3372100958,,
-Wheel T7,1065013100,,
-Wheel T8,2734731074,,
-Wheel T9,2840250395,,
-Wheel T10,345686686,,
+Wheel Steering T1,3769194911,0,0
+Wheel Steering T2,3158825472,0,0
+Wheel Steering T3,1526222854,0,0
+Wheel Steering T4,3539316064,0,0
+Wheel Steering T5,3435681649,0,0
+Wheel Steering T6,1701822652,0,0
+Wheel Steering T7,1868379119,0,0
+Wheel Steering T8,244400800,0,0
+Wheel Steering T9,4184683672,0,0
+Wheel Steering T10,3104518012,0,0
+Wheel T1,2866040116,0,0
+Wheel T2,299251682,0,0
+Wheel T3,182430853,0,0
+Wheel T4,2137276546,0,0
+Wheel T5,2632952818,0,0
+Wheel T6,3372100958,0,0
+Wheel T7,1065013100,0,0
+Wheel T8,2734731074,0,0
+Wheel T9,2840250395,0,0
+Wheel T10,345686686,0,0
 ### TANK TRACKS ###,,,
-T1 Tank Track,4050988656,,
-T2 Tank Track,1691117057,,
-T3 Tank Track,184017928,,
-T4 Tank Track,5728820,,
-T5 Tank Track,431289744,,
+T1 Tank Track,4050988656,117000,2250
+T2 Tank Track,1691117057,132500,2500
+T3 Tank Track,184017928,148500,2750
+T4 Tank Track,5728820,165000,3000
+T5 Tank Track,431289744,350000,6250
 ### MECH LEGS ###,,,
-T0 Mech Leg,3066502430,,
-T1 Mech Leg,76192516,,
-T2 Mech Leg,1789991181,,
-T3 Mech Leg,1611765553,,
-T4 Mech Leg,2452579137,,
-T5 Mech Leg,4140335767,,
-T5 Mech Leg Golden,3660410821,,
+T0 Mech Leg,3066502430,115000,2000
+T1 Mech Leg,76192516,146320,2480
+T2 Mech Leg,1789991181,179080,2960
+T3 Mech Leg,1611765553,213280,3440
+T4 Mech Leg,2452579137,248920,3920
+T5 Mech Leg,4140335767,533000,8200
+T5 Mech Leg Golden,3660410821,533000,8200
 ### SPRINTER LEGS ###,,,
-T3 Sprinter Leg,3345472872,,
-T4 Sprinter Leg,1169080311,,
-T4 Sprinter Leg Carbon 6,2474131397,,
+T3 Sprinter Leg,3345472872,70000,1750
+T4 Sprinter Leg,1169080311,186200,3430
+T4 Sprinter Leg Carbon 6,2474131397,186200,3430
 ### INSECT LEGS ###,,,
-T3 Insect Leg,127661231,,
-T4 Insect Leg,1668760037,,
-T3 Insect Leg Blade,2671394050,,
-T4 Insect Leg Spider,875393229,,
+T3 Insect Leg,127661231,91800,102
+T4 Insect Leg,1668760037,132000,132
+T3 Insect Leg Blade,2671394050,91800,102
+T4 Insect Leg Spider,875393229,132000,132
 ### OLD INSECT LEGS ###,,,
-Walker Leg T7,2535778622,,
-Walker Leg T9,1889322041,,
+Walker Leg T7,2535778622,0,0
+Walker Leg T9,1889322041,0,0
 ### SKIES ###,,,
-T2 Steering Ski,3080624795,,
-T2 Ski,347391203,,
+T2 Steering Ski,3080624795,52000,12.5
+T2 Ski,347391203,52000,12.5
 ### HOVERS ###,,,
-T0 Hover,1851713730,,
-T1 Hover,3170960304,,
-T2 Hover,1639979618,,
-T3 Hover,465491285,,
-T4 Hover,3347041415,,
-T5 Hover,3835205776,,
-T5 Hover Golden,2217471839,,
+T0 Hover,1851713730,16000,100
+T1 Hover,3170960304,21450,110
+T2 Hover,1639979618,27600,120
+T3 Hover,465491285,34450,130
+T4 Hover,3347041415,42000,140
+T5 Hover,3835205776,180000,500
+T5 Hover Golden,2217471839,180000,500
 ### OLD HOVERS ###,,,
-Hover Blade T3,947628072,,
-Hover Blade T5,1333565630,,
-Hover Blade T7,3508014365,,
-Hover Blade T9,2787065227,,
+Hover Blade T3,947628072,0,0
+Hover Blade T5,1333565630,0,0
+Hover Blade T7,3508014365,0,0
+Hover Blade T9,2787065227,0,0
 ### ROTORS ###,,,
-T2 Rotor,3947193935,,
-T3 Rotor,3789940851,,
-T4 Rotor,1802864184,,
+T2 Rotor,3947193935,36000,150
+T3 Rotor,3789940851,72000,225
+T4 Rotor,1802864184,120000,300
 ### WINGS ###,,,
-T2 Wing,3980928804,,
-T3 Wing,2205394221,,
-T4 Wing,2312317713,,
-T5 Wing,2464192350,,
-T4 Wing Bat,2865954846,,
-T5 Wing Bat,2863842421,,
+T2 Wing,3980928804,15400,22
+T3 Wing,2205394221,19200,24
+T4 Wing,2312317713,23400,26
+T5 Wing,2464192350,28000,28
+T4 Wing Bat,2865954846,23400,26
+T5 Wing Bat,2863842421,28000,28
 ### OLD WINGS ###,,,
-Aerofoil T5,1515578912,,
-Aerofoil T7,879649833,,
-Aerofoil T9,1053747733,,
+Aerofoil T5,1515578912,0,0
+Aerofoil T7,879649833,0,0
+Aerofoil T9,1053747733,0,0
 ### RUDDERS ###,,,
-T2 Rudder,2369778644,,
-T3 Rudder,3808719325,,
-T4 Rudder,3919904737,,
-T5 Rudder,2608683011,,
-T4 Rudder Bat,2928920064,,
-T5 Rudder Bat,2404311559,,
+T2 Rudder,2369778644,11400,19
+T3 Rudder,3808719325,14700,21
+T4 Rudder,3919904737,18400,23
+T5 Rudder,2608683011,22500,25
+T4 Rudder Bat,2928920064,18400,23
+T5 Rudder Bat,2404311559,22500,25
 ### OLD RUDDERS ###,,,
-Rudder T5,975319760,,
-Rudder T7,1410969817,,
-Rudder T9,1589198565,,
+Rudder T5,975319760,0,0
+Rudder T7,1410969817,0,0
+Rudder T9,1589198565,0,0
 ### THRUSTERS ###,,,
-T1 Thruster,844778245,,
-T2 Thruster,2498076128,,
-T3 Thruster,3764614578,,
-T4 Thruster,3938712462,,
-T5 Thruster,2969949587,,
-T5 Thruster Carbon 6,944347375,,
+T1 Thruster,844778245,5000,7.5
+T2 Thruster,2498076128,7800,9
+T3 Thruster,3764614578,11200,10.5
+T4 Thruster,3938712462,15200,12
+T5 Thruster,2969949587,19800,13.5
+T5 Thruster Carbon 6,944347375,19800,13.5
 ### OLD THRUSTERS ###,,,
-Thruster T3,4276453881,,
-Thruster T5,1572019677,,
-Thruster T7,3285682302,,
-Thruster T9,3033577704,,
+Thruster T3,4276453881,0,0
+Thruster T5,1572019677,0,0
+Thruster T7,3285682302,0,0
+Thruster T9,3033577704,0,0
 ### PROPS ###,,,
-T3 Propeller,3286209719,,
-T4 Propeller,2784549582,,
+T3 Propeller,3286209719,65000,250
+T4 Propeller,2784549582,130000,500
 ### FRONT MOUNTED LASERS ###,,,
-T0 Front Laser,3402350870,,
-T1 Front Laser,2494440442,,
-T2 Front Laser,1584562849,,
-T3 Front Laser,2675516967,,
-T4 Front Laser,1436911484,,
+T0 Front Laser,3402350870,10000,20
+T1 Front Laser,2494440442,14000,28
+T2 Front Laser,1584562849,18000,36
+T3 Front Laser,2675516967,22000,44
+T4 Front Laser,1436911484,31200,52
 ### OLD FRONT MOUNTED LASERS ###,,,
-Front Mount SMG T1,1337963121,,
-Front Mount SMG T3,776342052,,
-Front Mount SMG T5,1497447090,,
-Front Mount SMG T7,3341135633,,
-Front Mount SMG T9,2955059079,,
+Front Mount SMG T1,1337963121,0,0
+Front Mount SMG T3,776342052,0,0
+Front Mount SMG T5,1497447090,0,0
+Front Mount SMG T7,3341135633,0,0
+Front Mount SMG T9,2955059079,0,0
 ### TOP MOUNTED LASERS ###,,,
-T0 Laser,3809895395,,
-T1 Laser,3178463503,,
-T2 Laser,2007965780,,
-T3 Laser,3064235218,,
-T4 Laser,2088248713,,
-T4 Laser Carbon 6,3632954889,,
-T5 Laser,3209000021,,
-T5 Laser Carbon 6,1199458351,,
-T5 Laser Golden,3851710054,,
+T0 Laser,3809895395,10000,20
+T1 Laser,3178463503,14000,28
+T2 Laser,2007965780,18000,36
+T3 Laser,3064235218,22000,44
+T4 Laser,2088248713,31200,52
+T4 Laser Carbon 6,3632954889,31200,52
+T5 Laser,3209000021,250000,500
+T5 Laser Carbon 6,1199458351,250000,500
+T5 Laser Golden,3851710054,250000,500
 ### OLD TOP MOUNTED LASERS ###,,,
-Top Mount SMG T1,2929054885,,
-Top Mount SMG T3,2985370719,,
-Top Mount SMG T5,3338015945,,
-Top Mount SMG T7,1485996394,,
-Top Mount SMG T9,798339580,,
+Top Mount SMG T1,2929054885,0,0
+Top Mount SMG T3,2985370719,0,0
+Top Mount SMG T5,3338015945,0,0
+Top Mount SMG T7,1485996394,0,0
+Top Mount SMG T9,798339580,0,0
 ### PLASMA ###,,,
-T0 Plasma,2655409492,,
-T1 Plasma,1293532710,,
-T2 Plasma,2446895092,,
-T3 Plasma,3953551555,,
-T4 Plasma,929526033,,
-T4 Plasma Carbon 6,1593059007,,
-T5 Plasma,171448327,,
-T5 Plasma Carbon 6,2943284935,,
-T5 Plasma Golden,2943284935,,
+T0 Plasma,2655409492,14000,28
+T1 Plasma,1293532710,18000,36
+T2 Plasma,2446895092,22000,44
+T3 Plasma,3953551555,26000,52
+T4 Plasma,929526033,36000,60
+T4 Plasma Carbon 6,1593059007,36000,60
+T5 Plasma,171448327,300000,600
+T5 Plasma Carbon 6,2943284935,300000,600
+T5 Plasma Golden,2943284935,300000,600
 ### OLD PLASMA ###,,,
-Plasma Launcher T3,1412971690,,
-Plasma Launcher T5,3810917806,,
-Plasma Launcher T7,3866475184,,
-Plasma Launcher T9,1365801908,,
+Plasma Launcher T3,1412971690,0,0
+Plasma Launcher T5,3810917806,0,0
+Plasma Launcher T7,3866475184,0,0
+Plasma Launcher T9,1365801908,0,0
 ### RAIL GUNS ###,,,
-T1 Rail,1640043587,,
-T2 Rail,2870850840,,
-T3 Rail,1779831198,,
-T4 Rail,2697638085,,
-T5 Rail,2083340214,,
-T5 Rail Golden,447003593,,
+T1 Rail,1640043587,18000,36
+T2 Rail,2870850840,22000,44
+T3 Rail,1779831198,26000,52
+T4 Rail,2697638085,36000,60
+T5 Rail,2083340214,260000,520
+T5 Rail Golden,447003593,260000,520
 ### OLD RAIL GUNS ###,,,
-Rail Cannon T5,360854742,,
-Rail Cannon T7,282227656,,
-Rail Cannon T9,2815406796,,
+Rail Cannon T5,360854742,0,0
+Rail Cannon T7,282227656,0,0
+Rail Cannon T9,2815406796,0,0
 ### NANOS ###,,,
-T2 Nano,1761903423,,
-T3 Nano,1671695619,,
-T4 Nano,2364175165,,
+T2 Nano,1761903423,18000,36
+T3 Nano,1671695619,22000,44
+T4 Nano,2364175165,31200,52
 ### OLD NANOS ###,,,
-Nanotech Disruptor T7,3726197307,,
-Nanotech Disruptor T9,3568946183,,
+Nanotech Disruptor T7,3726197307,0,0
+Nanotech Disruptor T9,3568946183,0,0
 ### TESSLA ###,,,
-T2 Tesla,2017654588,,
-T3 Tesla,3479123512,,
-T4 Tesla,2703353899,,
+T2 Tesla,2017654588,16000,32
+T3 Tesla,3479123512,28000,40
+T4 Tesla,2703353899,43200,48
 ### SEEKERS ###,,,
-T3 Seeker,48150119,,
-T4 Seeker,350778877,,
-T5 Seeker,2419806013,,
-T5 Seeker Firework,3437168371,,
-T5 Seeker Golden,3832533619,,
+T3 Seeker,48150119,100000,200
+T4 Seeker,350778877,135000,280
+T5 Seeker,2419806013,270000,550
+T5 Seeker Firework,3437168371,270000,550
+T5 Seeker Golden,3832533619,270000,550
 ### FLAK ###,,,
-T4 Flak,3947892032,,
-T5 Flak,73607413,,
+T4 Flak,3947892032,150000,300
+T5 Flak,73607413,300000,600
 ### CHAINGUNS ###,,,
-T4 Chaingun,1318129004,,
-T5 Chaingun,1795842454,,
-T5 Chaingun Golden,194724715,,
+T4 Chaingun,1318129004,182000,330
+T5 Chaingun,1795842454,392000,650
+T5 Chaingun Golden,194724715,392000,650
 ### ION ###,,,
-T4 Ion,3541341953,,
-T5 Ion,1184153980,,
-T5 Ion Cardboard,2295212085,,
-T5 Ion Golden,105639928,,
+T4 Ion,3541341953,120000,290
+T5 Ion,1184153980,240000,490
+T5 Ion Cardboard,2295212085,240000,490
+T5 Ion Golden,105639928,240000,490
 ### MORTAR ###,,,
-T5 Mortar,1885850433,,
-T5 Mortar Egg Launcher,3087866254,,
-T5 Mortar Golden,2256680330,,
+T5 Mortar,1885850433,290000,580
+T5 Mortar Egg Launcher,3087866254,290000,580
+T5 Mortar Golden,2256680330,290000,580
 ### MODULES ###,,,
-T3 Blink Module,3987245394,,
-T3 Disc Shield Module,3263542661,,
-T3 Emp Module,658488560,,
-T3 Energy Module,1692614192,,
-T3 Ghost Module,4230376397,,
-T3 Windowmaker Module,344080878,,
+T3 Blink Module,3987245394,165000,600
+T3 Disc Shield Module,3263542661,169125,615
+T3 Emp Module,658488560,144375,525
+T3 Energy Module,1692614192,123750,450
+T3 Ghost Module,4230376397,148500,690
+T3 Windowmaker Module,344080878,280000,300
 ### ELECTRO SHIELDS ###,,,
-T2 Electroshield A Left,1264237222,,
-T2 Electroshield A Right,2965095316,,
-T2 Electroshield B Right,1771929753,,
-T2 Electroshield B Left,2457663915,,
-T2 Electroshield C Right,3732947357,,
-T2 Electroshield C Left,627128495,,
-T3 Electroshield A Right,3687843459,,
-T3 Electroshield A Left,540114865,,
-T3 Electroshield B Right,1825425287,,
-T3 Electroshield B Left,2536292021,,
-T3 Electroshield B Right Football,3152416924,,
-T3 Electroshield B Left Football,3248328684,,
-T3 Electroshield B Right Spiked,1361801646,,
-T3 Electroshield B Left Spiked,726724318,,
-T3 Electroshield C Right,3052110986,,
-T3 Electroshield C Left,1309343160,,
-T4 Electroshield A Right,49694094,,
-T4 Electroshield A Left,4179049660,,
-T4 Electroshield B Right,3209366198,,
-T4 Electroshield B Left,1152021380,,
-T4 Electroshield C Right,139905970,,
-T4 Electroshield C Left,4088902272,,
-T5 Electroshield A Right,1889152405,,
-T5 Electroshield A LEFT,3823106277,,
-T5 Electroshield B Left,3001609712,,
-T5 Electroshield B Right,3365106304,,
-T5 Electroshield C Left,991790322,,
-T5 Electroshield C Right,1097210754,,
+T2 Electroshield A Left,1264237222,66000,22
+T2 Electroshield A Right,2965095316,66000,22
+T2 Electroshield B Right,1771929753,72000,24
+T2 Electroshield B Left,2457663915,72000,24
+T2 Electroshield C Right,3732947357,84000,28
+T2 Electroshield C Left,627128495,84000,28
+T3 Electroshield A Right,3687843459,96000,32
+T3 Electroshield A Left,540114865,96000,32
+T3 Electroshield B Right,1825425287,108000,36
+T3 Electroshield B Left,2536292021,108000,36
+T3 Electroshield B Right Football,3152416924,108000,36
+T3 Electroshield B Left Football,3248328684,108000,36
+T3 Electroshield B Right Spiked,1361801646,108000,36
+T3 Electroshield B Left Spiked,726724318,108000,36
+T3 Electroshield C Right,3052110986,120000,40
+T3 Electroshield C Left,1309343160,120000,40
+T4 Electroshield A Right,49694094,114400,44
+T4 Electroshield A Left,4179049660,114400,44
+T4 Electroshield B Right,3209366198,124800,48
+T4 Electroshield B Left,1152021380,124800,48
+T4 Electroshield C Right,139905970,135200,52
+T4 Electroshield C Left,4088902272,135200,52
+T5 Electroshield A Right,1889152405,145600,56
+T5 Electroshield A LEFT,3823106277,145600,56
+T5 Electroshield B Left,3001609712,208000,130
+T5 Electroshield B Right,3365106304,208000,130
+T5 Electroshield C Left,991790322,208000,130
+T5 Electroshield C Right,1097210754,208000,130
 ### OLD ELECTRO SHIELDS ###,,,
-Electroplate L T3,2860532867,,
-Electroplate L T4,2949645213,,
-Electroplate L T5,416137881,,
-Electroplate L T6,3253436820,,
-Electroplate L T7,1995849872,,
-Electroplate L T8,3410694056,,
-Electroplate L T9,2086063788,,
-Electroplate R T3,3746649421,,
-Electroplate R T4,3657503315,,
-Electroplate R T5,1830605655,,
-Electroplate R T6,3023736922,,
-Electroplate R T7,52908382,,
-Electroplate R T8,3197771366,,
-Electroplate R T9,159899490,,
+Electroplate L T3,2860532867,0,0
+Electroplate L T4,2949645213,0,0
+Electroplate L T5,416137881,0,0
+Electroplate L T6,3253436820,0,0
+Electroplate L T7,1995849872,0,0
+Electroplate L T8,3410694056,0,0
+Electroplate L T9,2086063788,0,0
+Electroplate R T3,3746649421,0,0
+Electroplate R T4,3657503315,0,0
+Electroplate R T5,1830605655,0,0
+Electroplate R T6,3023736922,0,0
+Electroplate R T7,52908382,0,0
+Electroplate R T8,3197771366,0,0
+Electroplate R T9,159899490,0,0
 ### SPECIAL ###,,,
-Altimeter,2820370110,,
-Cockpit Front Left,717544517,,
-Cockpit Front Right,1354711861,,
-Cockpit Mid Left,3688596442,,
-Cockpit Mid Right,2711624874,,
-Cockpit Top Left,3970675339,,
-Cockpit Top Right,2530225659,,
-Flipper Large,2297667466,,
-Flipper Medium,3083647184,,
-Flipper Small,2707915966,,
-Jammer Large,575087658,,
-Jammer Medium,3106939802,,
-Jammer Small,198393630,,
-Radar Large,3370519355,,
-Radar Medium,2115785469,,
-Radar Small,3782348815,,
-PilotSeat Bunny,1061758673,,
-PilotSeat Cray,2843561040,,
-PilotSeat Gene,1427441647,,
-PilotSeat Mega,2325944783,,
-PilotSeat Retro,2743059293,,
-Receiver Large,2742818297,,
-Receiver Medium,2312945847,,
-Receiver Small,2330463949,,
-Speedometer,3531325242,,
+Altimeter,2820370110,1,0.01
+Cockpit Front Left,717544517,1,0.01
+Cockpit Front Right,1354711861,1,0.01
+Cockpit Mid Left,3688596442,1,0.01
+Cockpit Mid Right,2711624874,1,0.01
+Cockpit Top Left,3970675339,1,0.01
+Cockpit Top Right,2530225659,1,0.01
+Flipper Large,2297667466,1,0.01
+Flipper Medium,3083647184,1,0.01
+Flipper Small,2707915966,1,0.01
+Jammer Large,575087658,1,0.01
+Jammer Medium,3106939802,1,0.01
+Jammer Small,198393630,1,0.01
+Radar Large,3370519355,1,0.01
+Radar Medium,2115785469,1,0.01
+Radar Small,3782348815,1,0.01
+PilotSeat Bunny,1061758673,1,0.01
+PilotSeat Cray,2843561040,1,0.01
+PilotSeat Gene,1427441647,1,0.01
+PilotSeat Mega,2325944783,1,0.01
+PilotSeat Retro,2743059293,1,0.01
+Receiver Large,2742818297,1,0.01
+Receiver Medium,2312945847,1,0.01
+Receiver Small,2330463949,1,0.01
+Speedometer,3531325242,1,0.01
 ### COSMETICS ###,,,
-Bronze League Badge Arena,988387568,,
-Bronze League Badge,1301942811,,
-Diamond League Badge,608517870,,
-Gold League Badge Arena,2514755079,,
-Gold League Badge,1893098069,,
-Protonium League Badge,2046961989,,
-Protonium League Five Stars Badge,1988022506,,
-Silver League Badge,4157599523,,
-Silver League Badge Arena,1551110695,,
-Alienware Mask Ear L,3136672710,,
-Alienware Mask Ear R,699401910,,
-Alienware Mask Head L,2145317520,,
-Alienware Mask Head R,3969591264,,
-Alienware Mask Jaw L,3709563875,,
-Alienware Mask Jaw R,1314825875,,
-CatEye Left,767825476,,
-CatEye Right,683945560,,
-Cyborg Eyes,1609561971,,
-Eagle Face Left,291229893,,
-Eagle Face Right,1797279669,,
-Eagle Feathers Left,2829693731,,
-Eagle Feathers Right,3536989267,,
-Eagle Neck Left,38268230,,
-Eagle Neck Right,2017227318,,
-Football Face Left,1568834334,,
-Football Face Right,670637166,,
-Football Guard Left,326549783,,
-Football Guard Right,1762483815,,
-Football Helmet Left,1616382608,,
-Football Helmet Right,438539744,,
-Honeydew Beard Left,400977570,,
-Honeydew Beard Right,1839067602,,
-Honeydew Face Left,946469841,,
-Honeydew Face Right,1108501665,,
-Honeydew Horns Left,837592722,,
-Honeydew Horns Right,1268201954,,
-Mech 7 Ear Left,3920339432,,
-Mech 7 Ear Right,2479898264,,
-Mech 7 Jaw Left,1620644180,,
-Mech 7 Jaw Right,451055140,,
-Mech 7 Nose Left,2923392504,,
-Mech 7 Nose Right,3561288328,,
-Ninja Mask Bandana L,3248797084,,
-Ninja Mask Bandana R,1390502124,,
-Ninja Mask Head L,2847701117,,
-Ninja Mask Head R,989441293,,
-Ninja Mask Mask L,108914709,,
-Ninja Mask Mask R,2503490917,,
-OverWolf Ear Left,2150063391,,
-OverWolf Ear Right,4200383087,,
-OverWolf Eye Left,3424461321,,
-OverWolf Eye Right,3060186489,,
-OverWolf Jaw Left,152432035,,
-OverWolf Jaw Right,1936618195,,
-Rhino 8 Ear Left,2379348787,,
-Rhino 8 Ear Right,4155139139,,
-Rhino 8 Jaw Left,82004879,,
-Rhino 8 Jaw Right,2123945215,,
-Rhino 8 Nose Left,651937688,,
-Rhino 8 Nose Right,1554012392,,
-Sabretooth Ear Left,1584789066,,
-Sabretooth Ear Right,604924218,,
-Sabretooth Face Left,854085002,,
-Sabretooth Face Right,1217647354,,
-Sabretooth Jaw Left,3611772662,,
-Sabretooth Jaw Right,2906446214,,
-Scary Mask Eyes Left,30139883,,
-Scary Mask Eyes Right,2075163291,,
-Scary Mask Horn Left,3619385994,,
-Scary Mask Horn Right,2915102202,,
-Scary Mask Jaw Left,1574122495,,
-Scary Mask Jaw Right,665365647,,
-TRex Mask Head L,981970925,,
-TRex Mask Head R,799302218,,
-TRex Mask Jaw L,3670645745,,
-TRex Mask Jaw R,3618891370,,
-TRex Mask Nose L,669458802,,
-TRex Mask Nose R,4069461414,,
-Vigilant Eyes Left,3558508089,,
-Vigilant Eyes Right,1704793982,,
-Balloon,346272734,,
-Bubble Machine,2484686408,,
-Exhaust Blower,149580437,,
-Exhaust Stack L,3489925411,,
-Exhaust Stack R,1679554409,,
-Fairy Light,2183972675,,
-Headlamp,1367205243,,
-Present Large,568116457,,
-Present Small,138993629,,
-Robot Name Banner,2782198650,,
-Spike Claw,1991524976,,
-Spike Dagger,688123941,,
-Spike Needle,955529870,,
-Spike Pin,108680691,,
-Vapor Trail Single,3610833057,,
-Vapor Trail Single Firework,1810319153,,
-Vapor Trail Single Flower,3137009174,,
-Vapor Trail Single Snowflake,3297983510,,
-Vapor Trail Twin,236893100,,
+Bronze League Badge Arena,988387568,1,0.01
+Bronze League Badge,1301942811,1,0.01
+Diamond League Badge,608517870,1,0.01
+Gold League Badge Arena,2514755079,1,0.01
+Gold League Badge,1893098069,1,0.01
+Protonium League Badge,2046961989,1,0.01
+Protonium League Five Stars Badge,1988022506,1,0.01
+Silver League Badge,4157599523,1,0.01
+Silver League Badge Arena,1551110695,1,0.01
+Alienware Mask Ear L,3136672710,1,0.01
+Alienware Mask Ear R,699401910,1,0.01
+Alienware Mask Head L,2145317520,1,0.01
+Alienware Mask Head R,3969591264,1,0.01
+Alienware Mask Jaw L,3709563875,1,0.01
+Alienware Mask Jaw R,1314825875,1,0.01
+CatEye Left,767825476,1,0.01
+CatEye Right,683945560,1,0.01
+Cyborg Eyes,1609561971,1,0.01
+Eagle Face Left,291229893,1,0.01
+Eagle Face Right,1797279669,1,0.01
+Eagle Feathers Left,2829693731,1,0.01
+Eagle Feathers Right,3536989267,1,0.01
+Eagle Neck Left,38268230,1,0.01
+Eagle Neck Right,2017227318,1,0.01
+Football Face Left,1568834334,1,0.01
+Football Face Right,670637166,1,0.01
+Football Guard Left,326549783,1,0.01
+Football Guard Right,1762483815,1,0.01
+Football Helmet Left,1616382608,1,0.01
+Football Helmet Right,438539744,1,0.01
+Honeydew Beard Left,400977570,1,0.01
+Honeydew Beard Right,1839067602,1,0.01
+Honeydew Face Left,946469841,1,0.01
+Honeydew Face Right,1108501665,1,0.01
+Honeydew Horns Left,837592722,1,0.01
+Honeydew Horns Right,1268201954,1,0.01
+Mech 7 Ear Left,3920339432,1,0.01
+Mech 7 Ear Right,2479898264,1,0.01
+Mech 7 Jaw Left,1620644180,1,0.01
+Mech 7 Jaw Right,451055140,1,0.01
+Mech 7 Nose Left,2923392504,1,0.01
+Mech 7 Nose Right,3561288328,1,0.01
+Ninja Mask Bandana L,3248797084,1,0.01
+Ninja Mask Bandana R,1390502124,1,0.01
+Ninja Mask Head L,2847701117,1,0.01
+Ninja Mask Head R,989441293,1,0.01
+Ninja Mask Mask L,108914709,1,0.01
+Ninja Mask Mask R,2503490917,1,0.01
+OverWolf Ear Left,2150063391,1,0.01
+OverWolf Ear Right,4200383087,1,0.01
+OverWolf Eye Left,3424461321,1,0.01
+OverWolf Eye Right,3060186489,1,0.01
+OverWolf Jaw Left,152432035,1,0.01
+OverWolf Jaw Right,1936618195,1,0.01
+Rhino 8 Ear Left,2379348787,1,0.01
+Rhino 8 Ear Right,4155139139,1,0.01
+Rhino 8 Jaw Left,82004879,1,0.01
+Rhino 8 Jaw Right,2123945215,1,0.01
+Rhino 8 Nose Left,651937688,1,0.01
+Rhino 8 Nose Right,1554012392,1,0.01
+Sabretooth Ear Left,1584789066,1,0.01
+Sabretooth Ear Right,604924218,1,0.01
+Sabretooth Face Left,854085002,1,0.01
+Sabretooth Face Right,1217647354,1,0.01
+Sabretooth Jaw Left,3611772662,1,0.01
+Sabretooth Jaw Right,2906446214,1,0.01
+Scary Mask Eyes Left,30139883,1,0.01
+Scary Mask Eyes Right,2075163291,1,0.01
+Scary Mask Horn Left,3619385994,1,0.01
+Scary Mask Horn Right,2915102202,1,0.01
+Scary Mask Jaw Left,1574122495,1,0.01
+Scary Mask Jaw Right,665365647,1,0.01
+TRex Mask Head L,981970925,1,0.01
+TRex Mask Head R,799302218,1,0.01
+TRex Mask Jaw L,3670645745,1,0.01
+TRex Mask Jaw R,3618891370,1,0.01
+TRex Mask Nose L,669458802,1,0.01
+TRex Mask Nose R,4069461414,1,0.01
+Vigilant Eyes Left,3558508089,1,0.01
+Vigilant Eyes Right,1704793982,1,0.01
+Balloon,346272734,1,0.01
+Bubble Machine,2484686408,1,0.01
+Exhaust Blower,149580437,1,0.01
+Exhaust Stack L,3489925411,1,0.01
+Exhaust Stack R,1679554409,1,0.01
+Fairy Light,2183972675,1,0.01
+Headlamp,1367205243,1,0.01
+Present Large,568116457,1,0.01
+Present Small,138993629,1,0.01
+Robot Name Banner,2782198650,1,0.01
+Spike Claw,1991524976,1,0.01
+Spike Dagger,688123941,1,0.01
+Spike Needle,955529870,1,0.01
+Spike Pin,108680691,1,0.01
+Vapor Trail Single,3610833057,1,0.01
+Vapor Trail Single Firework,1810319153,1,0.01
+Vapor Trail Single Flower,3137009174,1,0.01
+Vapor Trail Single Snowflake,3297983510,1,0.01
+Vapor Trail Twin,236893100,1,0.01
 ### HOLOFLAGS ###,,,
-Turkish flag,4070927930,,
-Danish flag,932603502,,
-UK Holoflag,4175295691,,
-USA Holoflag,3559676835,,
-2019 Holoflag,216301182,,
-Bunny Holoflag,2663263630,,
-China Holoflag,3910121366,,
-Curse Holoflag,1039436321,,
-Italy Holoflag,4166201860,,
-Japan Holoflag,2020064218,,
-Spain Holoflag,3114896263,,
-Brazil Holoflag,2243089188,,
-Canada Holoflag,1385335421,,
-Flower Holoflag,3266439135,,
-France Holoflag,2373812955,,
-Pirate Holoflag,4124816651,,
-Poland Holoflag,2730691972,,
-Russia Holoflag,4065608086,,
-Sweden Holoflag,1786715320,,
-3 Years Holoflag,3996493866,,
-4 Years Holoflag,507555577,,
-5 Years Holoflag,3210649465,,
-6 Years Holoflag,2537158398,,
-Belarus Holoflag,1768151340,,
-Belgium Holoflag,1798659636,,
-Germany Holoflag,2596479965,,
-Iceland Holoflag,1796059677,,
-Ireland Holoflag,3447406366,,
-Rainbow Holoflag,1042028710,,
-Ukraine Holoflag,68277216,,
-Chronogg Holoflag,862329300,,
-Overwolf Holoflag,1020482017,,
-Yogscast Holoflag,4079824960,,
-Alienware Holoflag,2345098755,,
-Argentina Holoflag,354715741,,
-Australia Holoflag,664490215,,
-EasterEgg Holoflag,3131616996,,
-Robocraft Holoflag,1958111892,,
-Snowflake Holoflag,327459709,,
-Candy Cane Holoflag,2412453676,,
-Kazakhstan Holoflag,3330651823,,
-Santa Cray Holoflag,2990880144,,
-Netherlands Holoflag,88051662,,
-New Zealand Holoflag,2855651676,,
-South Korea Holoflag,460733827,,
-Top Hundred Holoflag,757806708,,
-Dev Supporter Holoflag,4200145444,,
-Humble Bundle HoloFlag,3024755361,,
-RoboPass Season 1 Holoflag,3058601525,,
-RoboPass Season 2 Holoflag,3411783298,,
-Gold Dev Supporter Holoflag,3370765914,,
-Able Gamers Charity Holoflag,1607707925,,
+Turkish flag,4070927930,1,0.01
+Danish flag,932603502,1,0.01
+UK Holoflag,4175295691,1,0.01
+USA Holoflag,3559676835,1,0.01
+2019 Holoflag,216301182,1,0.01
+Bunny Holoflag,2663263630,1,0.01
+China Holoflag,3910121366,1,0.01
+Curse Holoflag,1039436321,1,0.01
+Italy Holoflag,4166201860,1,0.01
+Japan Holoflag,2020064218,1,0.01
+Spain Holoflag,3114896263,1,0.01
+Brazil Holoflag,2243089188,1,0.01
+Canada Holoflag,1385335421,1,0.01
+Flower Holoflag,3266439135,1,0.01
+France Holoflag,2373812955,1,0.01
+Pirate Holoflag,4124816651,1,0.01
+Poland Holoflag,2730691972,1,0.01
+Russia Holoflag,4065608086,1,0.01
+Sweden Holoflag,1786715320,1,0.01
+3 Years Holoflag,3996493866,1,0.01
+4 Years Holoflag,507555577,1,0.01
+5 Years Holoflag,3210649465,1,0.01
+6 Years Holoflag,2537158398,1,0.01
+Belarus Holoflag,1768151340,1,0.01
+Belgium Holoflag,1798659636,1,0.01
+Germany Holoflag,2596479965,1,0.01
+Iceland Holoflag,1796059677,1,0.01
+Ireland Holoflag,3447406366,1,0.01
+Rainbow Holoflag,1042028710,1,0.01
+Ukraine Holoflag,68277216,1,0.01
+Chronogg Holoflag,862329300,1,0.01
+Overwolf Holoflag,1020482017,1,0.01
+Yogscast Holoflag,4079824960,1,0.01
+Alienware Holoflag,2345098755,1,0.01
+Argentina Holoflag,354715741,1,0.01
+Australia Holoflag,664490215,1,0.01
+EasterEgg Holoflag,3131616996,1,0.01
+Robocraft Holoflag,1958111892,1,0.01
+Snowflake Holoflag,327459709,1,0.01
+Candy Cane Holoflag,2412453676,1,0.01
+Kazakhstan Holoflag,3330651823,1,0.01
+Santa Cray Holoflag,2990880144,1,0.01
+Netherlands Holoflag,88051662,1,0.01
+New Zealand Holoflag,2855651676,1,0.01
+South Korea Holoflag,460733827,1,0.01
+Top Hundred Holoflag,757806708,1,0.01
+Dev Supporter Holoflag,4200145444,1,0.01
+Humble Bundle HoloFlag,3024755361,1,0.01
+RoboPass Season 1 Holoflag,3058601525,1,0.01
+RoboPass Season 2 Holoflag,3411783298,1,0.01
+Gold Dev Supporter Holoflag,3370765914,1,0.01
+Able Gamers Charity Holoflag,1607707925,1,0.01
 ### UNKNOWN ###,,,
 11838567,11838567,,
 31120410,31120410,,

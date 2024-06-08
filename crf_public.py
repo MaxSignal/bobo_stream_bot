@@ -12,7 +12,7 @@ WEBHOOK_URL = ""
 
 tier = [1000, 6434, 79999, 1299999]
 with open("./cube_database.csv", "r", encoding='UTF-8') as f:
-    data_name, data = zip(*[(row[0], row[1]) for row in csv.reader(f) if row[1].isdecimal()])
+    data_name, data, health, mass = zip(*[(row[0], row[1], row[2], row[3]) for row in csv.reader(f) if row[1].isdecimal()])
 last = int(factory.factory_list(auth.fj_login()['Token'], factory.make_search_body())[0]["itemId"])
 
 def get_bots():
@@ -62,12 +62,16 @@ def get_bots():
             for j in range(len(cubedata)):
                 if data[k] == keys[j]:
                     cubelist += data_name[k] + ": " + str(cubedata[keys[j]]) + "\n"
+                    btmass += float(mass[k]) * cubedata[keys[j]]
+                    bthealth += int(health[k]) * cubedata[keys[j]]
 
         embeds.append(discord.Embed(description=
                                     "**Name**: `" + result[i]["name"] + "`\n" +
                                     "**Builder**: " + result[i]["addedBy"] + " aka " + result[i]["addedByDisplayName"] + "\n" +
                                     "**CPU**: " + str(result[i]["cpu"]) + "\n" +
                                     "**Tier**: " + str(_tier) + "\n" +
+                                    "**Health**: " + '{:,}'.format(bthealth) + "\n" + 
+                                    "**Mass**: " + str(btmass) + "\n" +
                                     "**Cubes**: \n" + cubelist +
                                     "**Description**: \n```" + result[i]["description"] + "```" +
                                     "**ExpireDate**: " + result[i]["expiryDate"]))
