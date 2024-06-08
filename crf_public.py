@@ -55,6 +55,8 @@ def get_bots():
         else:
             _tier = 5
 
+        btmass = 0 
+        bthealth = 0
         cubelist = ""
         cubedata = json.loads(result[i]["cubeAmounts"])
         keys = list(cubedata.keys())
@@ -73,7 +75,7 @@ def get_bots():
                                     "**Health**: " + '{:,}'.format(bthealth) + "\n" + 
                                     "**Mass**: " + str(btmass) + "\n" +
                                     "**Cubes**: \n" + cubelist +
-                                    "**Description**: \n```" + result[i]["description"] + "```" +
+                                    "**Description**: \n```" + result[i]["description"] + "```\n" +
                                     "**ExpireDate**: " + result[i]["expiryDate"]))
         embeds[i].set_footer(text="ID: " + str(result[i]["id"]) + " • " + result[i]["addedDate"])
         embeds[i].set_image(url=result[i]["thumbnail"])
